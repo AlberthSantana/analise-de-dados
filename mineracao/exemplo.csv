@@ -1,0 +1,6 @@
+id,nome,email,data_cadastro,valor_ultima_compra,status
+1,Ana Silva,ana.silva@email.com,2023-10-15,150.50,ativo
+2,Bruno Oliveira,bruno.oli@email.com,2023-11-02,0.00,inativo
+3,Carla Souza,carla.souza@email.com,2024-01-20,89.90,ativo
+4,Diego Santos,diego.santos@email.com,2024-02-12,450.00,ativo
+5,Elena Martins,elena.m@email.com,2024-03-05,12.40,pendente
